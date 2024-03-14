@@ -1,0 +1,4229 @@
+{
+    "user": "admin",
+    "nakkohyo": [
+        {
+            "id": 1,
+            "name_ke": "乾為天",
+            "name_hachigu": "乾宮本宮卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "戌土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "辰土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 2,
+            "name_ke": "天風姤",
+            "name_hachigu": "乾宮一世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "寅木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "丑土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 3,
+            "name_ke": "天山遯",
+            "name_hachigu": "乾宮二世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "寅木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 4,
+            "name_ke": "天地否",
+            "name_hachigu": "乾宮三世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "戌土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "卯木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "gochu": "六合卦"
+        },
+        {
+            "id": 5,
+            "name_ke": "風地観",
+            "name_hachigu": "乾宮四世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "兄弟",
+                    "junishi_fukushin": "申金"
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 6,
+            "name_ke": "山地剥",
+            "name_hachigu": "乾宮五世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "子水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "兄弟",
+                    "junishi_fukushin": "申金"
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 7,
+            "name_ke": "火地晋",
+            "name_hachigu": "乾宮遊魂卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "酉金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 8,
+            "name_ke": "火天大有",
+            "name_hachigu": "乾宮帰魂卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "辰土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 9,
+            "name_ke": "兌為澤",
+            "name_hachigu": "兌本宮首卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "丑土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 10,
+            "name_ke": "澤水困",
+            "name_hachigu": "兌宮一世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "亥水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "寅木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六合卦"
+        },
+        {
+            "id": 11,
+            "name_ke": "澤地萃",
+            "name_hachigu": "兌宮二世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "酉金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 12,
+            "name_ke": "澤山咸",
+            "name_hachigu": "兌宮三世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "未土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "卯木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 13,
+            "name_ke": "水山蹇",
+            "name_hachigu": "兌宮四世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "卯木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "辰土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 14,
+            "name_ke": "地山謙",
+            "name_hachigu": "兌宮五世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "亥水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "卯木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 15,
+            "name_ke": "雷山小過",
+            "name_hachigu": "兌宮遊魂卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "亥水"
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "卯木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "辰土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 16,
+            "name_ke": "雷澤帰妹",
+            "name_hachigu": "兌宮帰魂卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "戌土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "亥水"
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "丑土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 17,
+            "name_ke": "離為火",
+            "name_hachigu": "離本宮首卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "巳火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "亥水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 18,
+            "name_ke": "火山旅",
+            "name_hachigu": "離宮一世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "酉金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "官⿁",
+                    "junishi_fukushin": "亥水"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "辰土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "卯木"
+                }
+            },
+            "gochu": "六合卦"
+        },
+        {
+            "id": 19,
+            "name_ke": "火風鼎",
+            "name_hachigu": "離宮二世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "未土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "亥水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "卯木"
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 20,
+            "name_ke": "火水未済",
+            "name_hachigu": "離宮三世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "巳火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "午火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "官⿁",
+                    "junishi_fukushin": "亥水"
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 21,
+            "name_ke": "山水蒙",
+            "name_hachigu": "離宮四世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "戌土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "酉金"
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "寅木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 22,
+            "name_ke": "風水渙",
+            "name_hachigu": "離宮五世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "巳火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "酉金"
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "官⿁",
+                    "junishi_fukushin": "亥水"
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "辰土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 23,
+            "name_ke": "天水訟",
+            "name_hachigu": "離宮遊魂卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "午火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "官⿁",
+                    "junishi_fukushin": "亥水"
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "寅木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 24,
+            "name_ke": "天火同人",
+            "name_hachigu": "離宮帰魂卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "戌土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "亥水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 25,
+            "name_ke": "震為雷",
+            "name_hachigu": "震本宮首卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "戌土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "辰土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 26,
+            "name_ke": "雷地豫",
+            "name_hachigu": "震宮一世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "午火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "未土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "gochu": "六合卦"
+        },
+        {
+            "id": 27,
+            "name_ke": "雷水解",
+            "name_hachigu": "震宮二世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "申金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "辰土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 28,
+            "name_ke": "雷風恒",
+            "name_hachigu": "震宮三世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "戌土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "兄弟",
+                    "junishi_fukushin": "寅木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 29,
+            "name_ke": "地風升",
+            "name_hachigu": "震宮四世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "丑土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "兄弟",
+                    "junishi_fukushin": "寅木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "丑土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 30,
+            "name_ke": "水風井",
+            "name_hachigu": "震宮五世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "戌土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": "兄弟",
+                    "junishi_fukushin": "寅木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 31,
+            "name_ke": "澤風大過",
+            "name_hachigu": "震宮遊魂卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "兄弟",
+                    "junishi_fukushin": "寅木"
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "丑土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 32,
+            "name_ke": "澤雷随",
+            "name_hachigu": "震宮帰魂卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "未土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "辰土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 33,
+            "name_ke": "巽為風",
+            "name_hachigu": "巽本宮首卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "卯木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 34,
+            "name_ke": "風天小畜",
+            "name_hachigu": "巽宮一世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "未土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "官⿁",
+                    "junishi_fukushin": "酉金"
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 35,
+            "name_ke": "風火家人",
+            "name_hachigu": "巽宮二世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "巳火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "官⿁",
+                    "junishi_fukushin": "酉金"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "丑土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 36,
+            "name_ke": "風雷益",
+            "name_hachigu": "巽宮三世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "卯木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "辰土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "官⿁",
+                    "junishi_fukushin": "酉金"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 37,
+            "name_ke": "天雷无妄",
+            "name_hachigu": "巽宮四世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "午火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 38,
+            "name_ke": "火雷噬嗑",
+            "name_hachigu": "巽宮五世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "未土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 39,
+            "name_ke": "山雷頣",
+            "name_hachigu": "巽宮遊魂卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "巳火"
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "戌土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "官⿁",
+                    "junishi_fukushin": "酉金"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 40,
+            "name_ke": "山風蠱",
+            "name_hachigu": "巽宮帰魂卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "寅木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "巳火"
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "酉金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 41,
+            "name_ke": "坎為水",
+            "name_hachigu": "坎本宮首卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "子水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "午火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 42,
+            "name_ke": "水澤節",
+            "name_hachigu": "坎宮一世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "申金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "巳火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六合卦"
+        },
+        {
+            "id": 43,
+            "name_ke": "水雷屯",
+            "name_hachigu": "坎宮二世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "戌土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "寅木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 44,
+            "name_ke": "水火既済",
+            "name_hachigu": "坎宮三世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "子水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "亥水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 45,
+            "name_ke": "澤火革",
+            "name_hachigu": "坎宮四世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "亥水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "卯木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 46,
+            "name_ke": "雷火豊",
+            "name_hachigu": "坎宮五世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "申金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "丑土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 47,
+            "name_ke": "地火明夷",
+            "name_hachigu": "坎宮遊魂卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "丑土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "卯木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 48,
+            "name_ke": "地水師",
+            "name_hachigu": "坎宮帰魂卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "酉金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "午火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 49,
+            "name_ke": "艮為山",
+            "name_hachigu": "艮本宮首卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "申金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 50,
+            "name_ke": "山火賁",
+            "name_hachigu": "艮宮一世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "戌土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "申金"
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六合卦"
+        },
+        {
+            "id": 51,
+            "name_ke": "山天大畜",
+            "name_hachigu": "艮宮二世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "申金"
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "午火"
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 52,
+            "name_ke": "山澤損",
+            "name_hachigu": "艮宮三世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "申金"
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 53,
+            "name_ke": "火澤睽",
+            "name_hachigu": "艮宮四世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "酉金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 54,
+            "name_ke": "天澤履",
+            "name_hachigu": "艮宮五世卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "申金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "亥水"
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 55,
+            "name_ke": "風澤中孚",
+            "name_hachigu": "艮宮遊魂卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "未土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "子孫",
+                    "junishi_fukushin": "申金"
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 56,
+            "name_ke": "風山漸",
+            "name_hachigu": "艮宮帰魂卦",
+            "6th": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "妻財",
+                    "junishi_fukushin": "子水"
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "申金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "午火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 57,
+            "name_ke": "坤為地",
+            "name_hachigu": "坤本宮首卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "酉金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 58,
+            "name_ke": "地雷復",
+            "name_hachigu": "坤宮一世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "巳火"
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六合卦"
+        },
+        {
+            "id": 59,
+            "name_ke": "地澤臨",
+            "name_hachigu": "坤宮二世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "酉金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "亥水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 60,
+            "name_ke": "地天泰",
+            "name_hachigu": "坤宮三世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "酉金",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "丑土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "辰土",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "巳火"
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六合卦"
+        },
+        {
+            "id": 61,
+            "name_ke": "雷天大壮",
+            "name_hachigu": "坤宮四世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "父母",
+                "junishi": "午火",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": "六冲卦"
+        },
+        {
+            "id": 62,
+            "name_ke": "澤天夬",
+            "name_hachigu": "坤宮五世卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "子孫",
+                "junishi": "酉金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "亥水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "巳火"
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 63,
+            "name_ke": "水天需",
+            "name_hachigu": "坤宮遊魂卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "申金",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "辰土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 1,
+                "gorui": "官⿁",
+                "junishi": "寅木",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": "父母",
+                    "junishi_fukushin": "巳火"
+                }
+            },
+            "1st": {
+                "nega_posi": 1,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        },
+        {
+            "id": 64,
+            "name_ke": "水地比",
+            "name_hachigu": "坤宮帰魂卦",
+            "6th": {
+                "nega_posi": 0,
+                "gorui": "妻財",
+                "junishi": "子水",
+                "seko_oko": "応",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "5th": {
+                "nega_posi": 1,
+                "gorui": "兄弟",
+                "junishi": "戌土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "4th": {
+                "nega_posi": 0,
+                "gorui": "子孫",
+                "junishi": "申金",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "3rd": {
+                "nega_posi": 0,
+                "gorui": "官⿁",
+                "junishi": "卯木",
+                "seko_oko": "世",
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "2nd": {
+                "nega_posi": 0,
+                "gorui": "父母",
+                "junishi": "巳火",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "1st": {
+                "nega_posi": 0,
+                "gorui": "兄弟",
+                "junishi": "未土",
+                "seko_oko": null,
+                "fukushin": {
+                    "gorui_fukushin": null,
+                    "junishi_fukushin": null
+                }
+            },
+            "gochu": null
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+streamlit == 1.11.0
+streamlit-aggrid == 0.3.2
+pandas == 1.4.1
+numpy == 1.22.3
+google-cloud-firestore == 2.4.0
+google-cloud-bigquery==3.3.5
+google-cloud-run==0.7.1
+gcsfs == 2022.2.0
+isodate == 0.6.1
+plotly == 5.6.0
+streamlit-modal == 0.0.5
+pyyaml == 5.3.1
+openpyxl == 3.0.9
+db-dtypes == 1.0.4
+streamlit-on-Hover-tabs==1.0.1
+pydantic==1.9.0
+streamlit-plotly-events==0.0.6
+python-dateutil==2.8.2
+protobuf~=3.19.0 # streamlitデプロイ中時にエラー回避のために最下部にこれを記述
+python-dotenv == 0.21.0
+boto3==1.26.86
+altair == 4.2.2
+pandas-gbq==0.19.2
+google-auth==2.23.3
+pytest==6.1.2
