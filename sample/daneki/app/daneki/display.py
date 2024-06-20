@@ -53,7 +53,7 @@ def get_today_koyomi():
     day = today.day
 
     # JSONファイルを読み込む
-    with open('/workspaces/unken/app/data/koyomi/koyomi_daneki.json', 'r', encoding='utf-8') as file:
+    with open('/workspaces/hakke/sample/daneki/app/data/koyomi/koyomi_daneki.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
         for item in data["koyomi"]:
             if item["year"]["value"] == year and item["month"]["value"] == month and item["day"]["value"] == day:
@@ -71,7 +71,7 @@ def handle_nakkohyo_search(selections, result_placeholder):
         return
 
     # JSONファイルを読み込み
-    with open('/workspaces/unken/app/data/nakko/nakko_kajurin.json', 'r', encoding='utf-8') as file:
+    with open('/workspaces/hakke/sample/daneki/app/data/nakko/nakko_kajurin.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
         nakkohyo = data["nakkohyo"]
 

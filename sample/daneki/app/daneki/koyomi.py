@@ -7,7 +7,7 @@ def main():
     st.title('暦表示')
 
     # JSONファイルのパス
-    with open('/workspaces/unken/app/data/koyomi/koyomi_daneki.json', 'r', encoding='utf-8') as file:
+    with open('/workspaces/hakke/sample/daneki/app/data/koyomi/koyomi_daneki.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
         # "koyomi"キーのデータをPandas DataFrameに変換
         df_koyomi = pd.json_normalize(data["koyomi"])

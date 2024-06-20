@@ -13,7 +13,7 @@ expected_seko_oko = ["世", "応", None]
 # データファイルを読み込みます。
 @pytest.fixture
 def nakkohyo_data():
-    file_path = '/workspaces/unken/app/data/nakko/nakko_kajurin.json'
+    file_path = '/workspaces/hakke/sample/daneki/app/data/nakko/nakko_kajurin.json'
     with open(file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     return data["nakkohyo"]
