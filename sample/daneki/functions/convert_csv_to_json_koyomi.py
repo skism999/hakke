@@ -50,5 +50,5 @@ def create_calendar_json(json_file_path):
         json.dump(final_data, json_file, ensure_ascii=False, indent=4)
 
 # JSONファイルのパス
-json_file_path = '/workspaces/unken/app/data/koyomi/koyomi_daneki.json'
+json_file_path = '/workspaces/hakke/sample/daneki/app/data/koyomi/koyomi_daneki.json'
 create_calendar_json(json_file_path)
